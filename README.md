@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matthew27-31
-- 👀 I’m interested in anything stem
+- 👀 I’m interested in anything stem/literature/history
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ftc
+- 💞️ I’m looking to collaborate on ftc/any projets
 - 📫 How to reach me discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Albert Einstein won the nobel prize in 1921 for his paper on special relativity(1905)
